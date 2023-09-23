@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=50&pause=500&color=38F736&background=000000&multiline=true&width=435&height=280&lines=Wake+the+****+up+Coder%2C+;we+need+to+work%2C+m8!;%D0%95%D1%80%D0%B6%D0%B0%D0%BD%2C+%D0%95%D1%80%D0%B6%D0%B0%D0%BD%2C+%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D0%B9;%D1%8D%D1%8D%D1%8D+%D0%90%D1%81-%D0%A1%D0%B0%D0%BB%D1%8F%D0%BC%D1%83+%D0%90%D0%BB%D0%B5%D0%B9%D0%BA%D1%83%D0%BC%2C+;%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D0%B9%2C+%D0%B7%D0%B0+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83+%D0%BF%D0%BE%D1%80%D0%B0)](https://git.io/typing-svg)
+
+<h3 align = "center"> Programming student, learning ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white), ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) and more things to become a useful back-end engenier</h3>
+
+Using ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white) && ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) && ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<h3 align = "center"> Программист-Студент, изучаю ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white), ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) и еще больше полезных вещей, чтобы стать полезным back-end разработчиком</h3>
+
+Использую ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white) && ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) && ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 <!--
 **4SV322/4SV322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
